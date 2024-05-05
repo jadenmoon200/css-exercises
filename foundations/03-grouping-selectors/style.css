@@ -1,0 +1,17 @@
+.btn {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+    border-color: black;
+}
+.main{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: 370;
+}
+
+.secondary{
+    background-color:#FFFF00;
+    color: black;
+}
+
+
